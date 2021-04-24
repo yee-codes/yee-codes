@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yee-codes/yee-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/yee_codes">
-  <img align="left" alt="Yee N | Twitter" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<section>
+    <h2>Connect with me:</h2>
+    <p>
+        <a href="https://twitter.com/yee_codes">
+            <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30>
+        </a> 
+        <a href="https://www.linkedin.com/in/yeecodes/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
+        </a>
+    </p>
+</section>
 
-<a href="https://www.linkedin.com/in/yeecodes/">
-  <img align="left" alt="Yee's LinkedIn" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />
+<section>
+    <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />
+</section>
