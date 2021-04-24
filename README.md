@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <section>
     <h2>About Me</h2>
-    <p>I'm a Junior Developer, based in Sydney, Australia. 🌱 I’m currently learning **Node.js.**</p>
+    <p>I'm a Junior Developer, based in Sydney, Australia. 🌱 I’m currently learning Node.js.</p>
 </section>
 
 <section>
@@ -63,9 +63,6 @@ Here are some ideas to get you started:
         <a href="https://reactjs.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
         </a> 
-        <a href="https://expressjs.com" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
         <a href="https://nodejs.org" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
@@ -84,7 +81,4 @@ Here are some ideas to get you started:
 <section>
     <h2>My GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yee-codes&show_icons=true&locale=en&layout=compact" alt="yee-codes" />
-    </p>
 </section>
