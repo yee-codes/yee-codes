@@ -17,12 +17,13 @@ Here are some ideas to get you started:
     <p>
         <img src="https://komarev.com/ghpvc/?username=yee-codes&label=Profile%20views&color=0e75b6&style=flat" alt="yee-codes" />
     </p>
-    <h1>Hello, I'm Yee.</h1>
+    <h1>Hello, I'm Yee. 👋 </h1>
 </header>
 
 <section>
     <h2>About Me</h2>
     <p>I'm a Junior Developer, based in Sydney, Australia.</p>
+    <p>🌱 I’m currently learning **Node.js.**</p>
 </section>
 
 <section>
@@ -34,10 +35,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
         </a>
     </p>
-</section>
-
-<section>
-    <p>🌱 I’m currently learning **Node.js.**</p>
 </section>
 
 <section>
@@ -87,7 +84,7 @@ Here are some ideas to get you started:
 
 <section>
     <h2>My GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />\
+    <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yee-codes&show_icons=true&locale=en&layout=compact" alt="yee-codes" />
     </p>
