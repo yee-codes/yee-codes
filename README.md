@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <header>
-    <h1 align="center">Hello, I'm Yee. Thanks for checking out my profile.</h1>
-    <h3 align="center">I'm a Junior Developer based in Sydney, Australia.</h3>
+    <h3>Hi there, I'm Yee. I'm a Junior Developer.</h3>
 </header>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yee-codes&label=Profile%20views&color=0e75b6&style=flat" alt="yee-codes" /> </p>
