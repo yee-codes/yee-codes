@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <section>
-    <h2>Connect with me:</h2>
     <p>
         <a href="https://twitter.com/yee_codes">
             <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30>
@@ -27,4 +26,9 @@ Here are some ideas to get you started:
 
 <section>
     <img src="https://github-readme-stats.vercel.app/api?username=yee-codes&show_icons=true&theme=gotham" alt="github username" />
+</section>
+
+<section>
+    <h2>Latest Tweet</h2>
+    [<img src="https://hcti.io/v1/image/469f8506-4b46-4a9e-9ab8-9068bd8d91ae" width="400">](https://twitter.com/mscccc/status/1384859875373617156)
 </section>
