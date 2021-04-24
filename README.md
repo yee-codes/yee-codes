@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <header>
-    <h3>Hi there, I'm Yee. I'm a Junior Developer.</h3>
+    <h2>Hi there, I'm Yee.</h2>
 </header>
+
+<section>
+    <h2>About Me</h2>
+    <h3>(To be written soon)</h3>
+</section>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yee-codes&label=Profile%20views&color=0e75b6&style=flat" alt="yee-codes" /> </p>
 
