@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <section>
     <h2>About Me</h2>
-    <p>I'm a Junior Developer, based in Sydney, Australia. 🌱 I’m currently learning Node.js.</p>
+    <p>I'm a Junior Developer, based in Sydney, Australia. 🌱</p>
 </section>
 
 <section>
